@@ -10,7 +10,6 @@
         packages = with pkgs; [
           # Made available on the CLI
           nodejs_20
-          netlify-cli
         ];
       };
 
