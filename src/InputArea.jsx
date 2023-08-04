@@ -28,7 +28,7 @@ export function InputArea({ inputText, setInputText, markedParse }) {
     <div className="toolbar container">
       <div className="row">
         <div className="toolbar">
-          <h1>
+          <h1 className="toolbar-text">
             <FontAwesomeIcon icon={faFreeCodeCamp} className="icon" />
             Markdown input
           </h1>
