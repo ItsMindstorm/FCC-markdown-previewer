@@ -12,6 +12,15 @@ body {
     color: $text;
   }
 
+  .creator {
+    font-size: 15px;
+    .heart {
+	margin-left: 2px;
+	margin-right: 2px;
+    }
+
+  }
+
   .toolbar,
   .toolbar-text {
     text-align: center;
