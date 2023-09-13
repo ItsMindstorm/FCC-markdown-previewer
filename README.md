@@ -1,12 +1,8 @@
 # The project
 This is a project that I made as progress towards to the freecodecamp front development frameworks certification.
 
-It is a project that converts markdown to HTML elements on the page.
+It is a project that provides random quotes which can be shared to social medias such as **X** and **Mastodon**   
 
 ## Features 
-- Interactive markdown conversion 
-- Supports:
-    * Carriage breaks
-    * Code blocks
-    * Headings, subheadings 
-    * Bullet lists, numbered lists
+- Fast quote fetching, including author of the quote 
+- Interactive buttons with which the quotes can be shared
